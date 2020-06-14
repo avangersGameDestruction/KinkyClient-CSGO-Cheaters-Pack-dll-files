@@ -5,7 +5,7 @@ onetap crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](
 --------------------------------------------------------------------------------------------------------------------------------------
 Gamesence crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/2/gamesense.cracked.dll) status : detected ( outdated )
 --------------------------------------------------------------------------------------------------------------------------------------
-BlazeHack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/3/blazehack.dll) status : undetected
+BlazeHack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/3/blazehack.dll) status : undetected ( 12 - 6 - 2020 )
 --------------------------------------------------------------------------------------------------------------------------------------
 Config's for onetap and blazehack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/0/configs.zip)
 --------------------------------------------------------------------------------------------------------------------------------------
