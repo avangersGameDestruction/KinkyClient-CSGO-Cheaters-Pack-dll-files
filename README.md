@@ -14,5 +14,5 @@ BlazeHack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](htt
 --------------------------------------------------------------------------------------------------------------------------------------
 Config's for onetap and blazehack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/0/configs.zip)
 --------------------------------------------------------------------------------------------------------------------------------------
-Fatality.win : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/4/Fatality.dll) status : undetected ( Updated 13 - 6 - 2020 )
+Fatality.win : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/4/Fatality.dll) status : detected ( outdated )
 --------------------------------------------------------------------------------------------------------------------------------------
