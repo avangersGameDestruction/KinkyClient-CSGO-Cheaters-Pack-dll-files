@@ -6,7 +6,7 @@ Welcome users those are the free dll's you all can download ( more dll configs f
 [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg?style=plastic)](https://en.wikipedia.org/wiki/Microsoft_Windows) 
 [![PayPal](https://img.shields.io/badge/donate-PayPal-104098.svg?style=plastic&logo=PayPal)](paypal.me/hacklegends)
 
-onetap crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/1/Dutchy.otc.dll) status : undetected ( Updated 15 - 6 - 2020 21:22 | 9.22 pm )
+onetap crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/1/Dutchy.otc.dll) status : undetected ( Updated 16/6/2020 00:30 | 12.30 am )
 --------------------------------------------------------------------------------------------------------------------------------------
 Gamesence crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/2/gamesense.cracked.dll) status : detected ( outdated )
 --------------------------------------------------------------------------------------------------------------------------------------
