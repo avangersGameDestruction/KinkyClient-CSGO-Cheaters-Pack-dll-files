@@ -17,7 +17,7 @@ BlazeHack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](htt
 --------------------------------------------------------------------------------------------------------------------------------------
 weave.su crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/5/weave.dll) status : undetected ( 15/6/2020 )
 --------------------------------------------------------------------------------------------------------------------------------------
-Fatality.win : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/4/Fatality.dll) status : detected ( outdated )
+Fatality.win : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/4/Fatality.dll) status : undetected ( 15/6/2020 )
 --------------------------------------------------------------------------------------------------------------------------------------
 Config's for onetap and blazehack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/0/configs.zip)
 --------------------------------------------------------------------------------------------------------------------------------------
