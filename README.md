@@ -9,7 +9,7 @@ Welcome users those are the free dll's you all can download ( more dll configs f
 All Dll's and cheats ( download way looks more easy then you think just click the bleu download button and enjoy )
 --------------------------------------------------------------------------------------------------------------------------------------
 
-onetap crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/1/Dutchy.otc.dll) status : undetected ( Updated 16/6/2020 00:30 | 12.30 am )
+onetap crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/1/Dutchy.otc.dll) status : undetected ( Updated 16/6/2020 10:54 | 10.54 am )
 --------------------------------------------------------------------------------------------------------------------------------------
 Gamesence crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/2/gamesense.cracked.dll) status : detected ( outdated )
 --------------------------------------------------------------------------------------------------------------------------------------
