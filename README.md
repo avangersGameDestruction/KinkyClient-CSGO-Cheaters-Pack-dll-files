@@ -11,6 +11,8 @@ All Dll's and cheats ( download way looks more easy then you think just click th
 
 onetap crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/1/Dutchy.otc.dll) status : undetected ( Updated 16/6/2020 10:54 | 10.54 am )
 --------------------------------------------------------------------------------------------------------------------------------------
+onetap crack + Fatality Design : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/6/Dutchy.otc.With.Fatality.Design.dll) status : undetected ( Updated 18/6/2020 16:00 | 16.00 am )
+--------------------------------------------------------------------------------------------------------------------------------------
 Gamesence crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/2/gamesense.cracked.dll) status : detected ( outdated )
 --------------------------------------------------------------------------------------------------------------------------------------
 BlazeHack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/3/blazehack.dll) status : undetected ( 12 - 6 - 2020 )
