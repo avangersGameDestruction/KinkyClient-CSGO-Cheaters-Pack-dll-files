@@ -13,7 +13,7 @@ onetap crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](
 --------------------------------------------------------------------------------------------------------------------------------------
 onetap crack + Fatality Design : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/6/Dutchy.otc.With.Fatality.Design.dll) status : undetected ( Updated 18/6/2020 16:00 | 16.00 am )
 --------------------------------------------------------------------------------------------------------------------------------------
-Gamesence crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/2/gamesense.cracked.dll) status : detected ( outdated )
+Gamesence crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/2/gamesense.cracked.dll) status : undetected / pasted ( Updated 1/7/2020 10:55 | 10:55 am )
 --------------------------------------------------------------------------------------------------------------------------------------
 BlazeHack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/3/blazehack.dll) status : undetected ( 12 - 6 - 2020 )
 --------------------------------------------------------------------------------------------------------------------------------------
