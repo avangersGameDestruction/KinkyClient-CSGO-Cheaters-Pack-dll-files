@@ -9,21 +9,21 @@ Welcome users those are the free dll's you all can download ( more dll configs f
 All Dll's and cheats ( download way looks more easy then you think just click the bleu download button and enjoy )
 --------------------------------------------------------------------------------------------------------------------------------------
 
-onetap crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/1/Dutchy.otc.dll) status : undetected ( Updated 1/7/2020 10:54 | 10.54 am ) / Resolver Updated
+onetap crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/1/Dutchy.otc.dll) status : undetected ( 6/7/2020 ) / Resolver Updated + design + aimbot
 --------------------------------------------------------------------------------------------------------------------------------------
-onetap crack + Fatality Design : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/6/Dutchy.otc.With.Fatality.Design.dll) status : undetected ( Updated 18/6/2020 16:00 | 16.00 am )
+onetap crack + Fatality Design : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/6/Dutchy.otc.With.Fatality.Design.dll) status : Detected ( outdated )
 --------------------------------------------------------------------------------------------------------------------------------------
-Gamesence crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/2/gamesense.cracked.dll) status : undetected / pasted ( Updated 1/7/2020 10:55 | 10:55 am )
+Gamesence crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/2/gamesense.cracked.dll) status : undetected / pasted ( Updated 6/7/2020 ) ( Rat proof / no rat inside )
 --------------------------------------------------------------------------------------------------------------------------------------
-BlazeHack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/3/blazehack.dll) status : undetected ( 12 - 6 - 2020 )
+BlazeHack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/3/blazehack.dll) status : undetected ( 6/7/2020 )
 --------------------------------------------------------------------------------------------------------------------------------------
-weave.su beta crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/5/weave.su.dll) status : undetected ( 1/7/2020 10:55 | 10:55 am )
+weave.su beta crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/5/weave.su.dll) status : undetected ( 6/7/2020 )
 --------------------------------------------------------------------------------------------------------------------------------------
 aimware crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/8/aimware.dll) status : undetected / pasted ( Updated 1/7/2020 10:55 | 10:55 am )
 --------------------------------------------------------------------------------------------------------------------------------------
 Fatality.win : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/4/Fatality.dll) status : Detected ( outdated )
 --------------------------------------------------------------------------------------------------------------------------------------
-Renfu.us : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/7/renfu.us.dll) status : undetected ( 15/6/2020 )
+Renfu.us : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/7/renfu.us.dll) status : undetected ( 6/7/2020 )
 --------------------------------------------------------------------------------------------------------------------------------------
 Config's for onetap and blazehack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/0/configs.zip)
 --------------------------------------------------------------------------------------------------------------------------------------
