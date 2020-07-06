@@ -8,7 +8,8 @@ Welcome users those are the free dll's you all can download ( more dll configs f
 
 All Dll's and cheats ( download way looks more easy then you think just click the bleu download button and enjoy )
 --------------------------------------------------------------------------------------------------------------------------------------
-
+Injector : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/20/Extreme.Injector.v3.exe) this bypass csgo beta
+--------------------------------------------------------------------------------------------------------------------------------------
 onetap crack : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/1/Dutchy.otc.dll) status : undetected ( 6/7/2020 ) / Resolver Updated + design + aimbot
 --------------------------------------------------------------------------------------------------------------------------------------
 onetap crack + Fatality Design : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/6/Dutchy.otc.With.Fatality.Design.dll) status : Detected ( outdated )
