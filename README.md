@@ -6,6 +6,8 @@ Welcome users those are the free dll's you all can download ( more dll configs f
 [![Windows](https://img.shields.io/badge/platform-Windows-0078d7.svg?style=plastic)](https://en.wikipedia.org/wiki/Microsoft_Windows) 
 [![PayPal](https://img.shields.io/badge/donate-PayPal-104098.svg?style=plastic&logo=PayPal)](paypal.me/hacklegends)
 
+Discord : https://discord.gg/Ma3F9PX
+
 All Dll's and cheats ( download way looks more easy then you think just click the bleu download button and enjoy )
 --------------------------------------------------------------------------------------------------------------------------------------
 Injector : ![Purchase List](https://i.imgur.com/23pCgTq.png) [**Download**](https://github.com/avangersKinkyClient/KinkyClient-CSGO-Cheaters-Pack-dll-files/releases/download/20/Extreme.Injector.v3.exe) this bypass csgo beta
